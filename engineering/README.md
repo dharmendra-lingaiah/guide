@@ -2,6 +2,7 @@
 
 **Maintainer:** [@mcuadros](https://github.com/mcuadros)
 
+* [Workflow](workflow.md)
 * [Methodology](methodology.md)
   * [Language Analysis Team](methodology-language-analysis.md)
 * [Project Maintainers](maintainers.md)
